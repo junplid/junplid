@@ -6,10 +6,10 @@
 <p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ousadojunplid" alt="ousadojunplid" /> </p>
 
 - 🌱 Atualmente estou aprendendo **Inglês**
-
 - 💬 Pergunte-me sobre **Next.js**
-
 - 📫 Como chegar até mim **ggrian.dev@gmail.com**
+  
+  <img style="padding-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ousadojunplid&show_icons=true&locale=en&layout=compact" alt="ousadojunplid" />
 
 ### Idiomas e ferramentas:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -84,5 +84,3 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=" texto datilografado" width="40" height="40"/> 
   </a>
-
-<img style="padding-top: 20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ousadojunplid&show_icons=true&locale=en&layout=compact" alt="ousadojunplid" />
