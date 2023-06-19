@@ -3,8 +3,6 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=ousadojunplid&label=Profile%20views&color=0e75b6&style=flat" alt="ousadojunplid" /> </p>
 
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ousadojunplid" alt="ousadojunplid" /> </p>
-
 - 🌱 Atualmente estou aprendendo **Inglês**
 - 💬 Pergunte-me sobre **Next.js**
 - 📫 Como chegar até mim **ggrian.dev@gmail.com**
